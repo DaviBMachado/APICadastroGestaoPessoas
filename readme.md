@@ -35,7 +35,7 @@ Experimente as rotas CRUD fornecidas para manipulação de usuários.
 - main.py: Arquivo principal que inicializa o aplicativo FastAPI.
 - controllers.py: Script de CRUD para manuseio da API.
 - model.py: Modelo em que o registro deve ser cadastrado.
-- 
+  
 ## Contribuindo
 Sinta-se à vontade para abrir uma issue para relatar problemas, fazer sugestões ou contribuir com código.
 
