@@ -11,10 +11,8 @@ Clone este repositório:
 git clone https://github.com/DaviBMachado/APICadastroGestaoPessoas
 ```
 
-Navegue até o diretório do projeto:
-```
-cd fastcrud
-```
+Navegue até o diretório do projeto
+
 Instale as dependências:
 ```
 pip install -r requirements.txt
