@@ -1,0 +1,2 @@
+{"id":"78bec906-09b7-46f5-b5e4-fb86cbd19edd","name":"44444444444","description":"xxxx","price":77.0,"on_offer":false}
+{"id":"37cb9497-d348-483d-8a57-b3055d2abef9","name":"matheus","description":"teste","price":1.0,"on_offer":false}
