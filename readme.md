@@ -33,15 +33,9 @@ http://localhost:8000/docs
 Experimente as rotas CRUD fornecidas para manipulação de usuários.
 ## Estrutura do Projeto
 - main.py: Arquivo principal que inicializa o aplicativo FastAPI.
-- router/routes_usuario.py: Define as rotas para manipulação de usuários.
-- controller/controller_usuario.py: Controlador que lida com as operações CRUD.
-- controller/token.py: controlador que lida com a geração e validação do token JWT.
-- database/: Pasta que contém os módulos relacionados aos bancos de dados.
-- db_mysql.py: Implementação da classe para interagir com o MySQL.
-- db_mongo.py: Implementação da classe para interagir com o MongoDB.
-- database_strategy.py: Definição da interface Strategy.
-- model/: Pasta que contém os modelos de dados Pydantic.
-- config/: Pasta que contém o helper para gerenciar o Cors.
+- controllers.py: Script de CRUD para manuseio da API.
+- model.py: Modelo em que o registro deve ser cadastrado.
+- 
 ## Contribuindo
 Sinta-se à vontade para abrir uma issue para relatar problemas, fazer sugestões ou contribuir com código.
 
